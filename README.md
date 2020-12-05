@@ -22,3 +22,5 @@ label.attributedText = attr
 ```
 
 ![alt text](https://i.imgur.com/xNOdnld.png "image")
+
+Thx Kean
